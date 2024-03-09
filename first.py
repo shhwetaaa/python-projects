@@ -1,5 +1,5 @@
 print("shweta,shwey,shwet")
-
+print("first  last middle end")
 
 #string
 f_name = "ABC"
