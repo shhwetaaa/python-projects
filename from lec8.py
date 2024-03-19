@@ -14,3 +14,5 @@ p= x>y
 q= y&x
 r= 1==1 and 3==4
 print(p,q,r)
+x = ("65",8)
+print(x)
