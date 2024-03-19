@@ -1,6 +1,9 @@
 print("shweta,shwey,shwet")
 print("first  last middle end")
 
+#datatypes and conversion
+ 
+
 #string
 f_name = "ABC"
 f_name = 'ABC_'
@@ -17,12 +20,7 @@ print(f_name[::-1])
 f_name = "".join(reversed(f_name))
 print(f_name)
 
-
-#deleting and updating of a string
-
-String1 = "hello devils!"
-print(String1)
-
- String2 = "S"
- String3 = String1[0:6] + String2 + String1[7:]
- print(String3)
+n = [1,2,3]
+m = [1,2,3]
+print(m==n)
+print(m is n)
